@@ -68,7 +68,7 @@ module RailsAdmin
               '%b' => 'M',          # The abbreviated month name ("Jan")
               '%B' => 'MM',         # The  full  month  name ("January")
               '%d' => 'dd',         # Day of the month (01..31)
-              '%D' => 'dd/mm/yy',    # American date format mm/dd/yy
+              '%D' => 'mm/dd/y',    # American date format mm/dd/yy
               '%e' => 'd',          # Day of the month (1..31)
               '%F' => 'yy-mm-dd',   # ISO 8601 date format
               # "%H" => "??",         # Hour of the day, 24-hour clock (00..23)
